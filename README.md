@@ -33,6 +33,12 @@ pip3 install -r requirements.txt
 
 [SpineWeb Dataset 5] (http://spineweb.digitalimaginggroup.ca/spineweb/index.php?n=Main.Datasets#Dataset_7.3A_Intervertebral_Disc_Localization_and_Segmentation.3A_3D_T2-weighted_Turbo_Spin_Echo_MR_image_Database)
 
+## Slide
+
+Introduction to Medical Image Analysis and Processing
+
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical)
+
 
 ## License
 
