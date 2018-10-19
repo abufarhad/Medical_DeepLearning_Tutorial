@@ -7,6 +7,8 @@
 
 ## Install Requirements
 
+- python 3.6
+- keras
 ```
 pip3 install -r requirements.txt
 ```
