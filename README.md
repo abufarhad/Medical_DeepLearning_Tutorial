@@ -48,11 +48,11 @@ pip3 install -r requirements.txt
 
 - Tutorial 4 : 'Semantic Segmentation'
 
-[Slideshare] 
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical4-121214658)
 
 - Tutorial 5 : 'Grand Challenges in Biomedical Imaging Analysis (Surgical Workflow Analysis in the SensorOR)'
 
-[Slideshare] 
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical5)
 
 
 ## License
