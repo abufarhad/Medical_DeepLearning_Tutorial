@@ -38,7 +38,7 @@ pip3 install -r requirements.txt
 
 - Tutorial 1 : 'Introduction to Medical Image Analysis and Processing'
 
-[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical)
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical1)
 
 - Tutorial 2 : N/A
 
