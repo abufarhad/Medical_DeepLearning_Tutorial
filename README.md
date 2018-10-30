@@ -39,6 +39,8 @@ pip3 install -r requirements.txt
 
 [Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical)
 
+- Tutorial2 : N/A
+
 - Tutorial3 : Auto ML
 
 [Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical3)
