@@ -36,21 +36,21 @@ pip3 install -r requirements.txt
 
 ## Slide
 
-- Tutorial1 : Introduction to Medical Image Analysis and Processing
+- Tutorial 1 : 'Introduction to Medical Image Analysis and Processing'
 
 [Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical)
 
-- Tutorial2 : N/A
+- Tutorial 2 : N/A
 
-- Tutorial3 : Auto ML
+- Tutorial 3 : 'Auto ML'
 
 [Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical3)
 
-- Tutorial4 : Semantic Segmentation
+- Tutorial 4 : 'Semantic Segmentation'
 
 [Slideshare] 
 
-- Tutorial5 : Grand Challenges in Biomedical Imaging Analysis (Surgical Workflow Analysis in the SensorOR)
+- Tutorial 5 : 'Grand Challenges in Biomedical Imaging Analysis (Surgical Workflow Analysis in the SensorOR)'
 
 [Slideshare] 
 
