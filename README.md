@@ -1,9 +1,10 @@
-# Tutorial: Deep Learning in Medical Imaging 
+# Tutorial - Deep Learning in Medical Imaging 
 
-- **Data Pipelining**
-- **Classifiacation (MURA v1.0)**
-- **Segmentation (Lumbar vertebra segmentation CT image database)**
-
+- **Tutorial 1 - Data Pipelining**
+- **Tutorial 2 - Classifiacation (MURA v1.0)**
+- **Tutorial 3 - Advanced Classifiacation (MURA v1.0)**
+- **Tutorial 4 - Segmentation (Lumbar vertebra segmentation CT image database)**
+- **Tutorial 5 - Advanced Segmentation (Lumbar vertebra segmentation CT image database)**
 
 ## Install Requirements
 
