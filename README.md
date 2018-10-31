@@ -1,9 +1,10 @@
-# Tutorial: Deep Learning in Medical Imaging 
+# Tutorial - Deep Learning in Medical Imaging 
 
-- **Data Pipelining**
-- **Classifiacation (MURA v1.0)**
-- **Segmentation (Lumbar vertebra segmentation CT image database)**
-
+- **Tutorial 1 - Data Pipelining**
+- **Tutorial 2 - Classifiacation (MURA v1.0)**
+- **Tutorial 3 - Advanced Classifiacation (MURA v1.0)**
+- **Tutorial 4 - Segmentation (Lumbar vertebra segmentation CT image database)**
+- **Tutorial 5 - Advanced Segmentation (Lumbar vertebra segmentation CT image database)**
 
 ## Install Requirements
 
@@ -17,7 +18,7 @@ pip3 install -r requirements.txt
 
 - MURA Dataset (v-1.0) for Classification
 ---
-![MURA Dataset](./assets/title/MURA.png)
+![MURA Dataset](./assets/MURA.png)
 
 
 [MURA] (https://stanfordmlgroup.github.io/competitions/mura/)
@@ -28,16 +29,30 @@ pip3 install -r requirements.txt
 ---
 - Lumbar vertebra segmentation CT image database
 
-![Lumbar vertebra segmentation CT image database](./assets/title/DatabaseVertebraSegmentation.jpg)
+![Lumbar vertebra segmentation CT image database](./assets/DatabaseVertebraSegmentation.jpg)
 
 
 [SpineWeb Dataset 5] (http://spineweb.digitalimaginggroup.ca/spineweb/index.php?n=Main.Datasets#Dataset_7.3A_Intervertebral_Disc_Localization_and_Segmentation.3A_3D_T2-weighted_Turbo_Spin_Echo_MR_image_Database)
 
 ## Slide
 
-Introduction to Medical Image Analysis and Processing
+- Tutorial 1 : 'Introduction to Medical Image Analysis and Processing'
 
-[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical)
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical1)
+
+- Tutorial 2 : N/A
+
+- Tutorial 3 : 'Auto ML'
+
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical3)
+
+- Tutorial 4 : 'Semantic Segmentation'
+
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical4-121214658)
+
+- Tutorial 5 : 'Grand Challenges in Biomedical Imaging Analysis (Surgical Workflow Analysis in the SensorOR)'
+
+[Slideshare] (https://www.slideshare.net/ssuser421e61/modulab-dlcmedical5)
 
 
 ## License
