@@ -1,4 +1,4 @@
-# Tutorial - Deep Learning in Medical Imaging 
+# Tutorial - Deep Learning in Medical Imaging (ongoing)
 
 - **Tutorial 1 - Data Pipelining**
 - **Tutorial 2 - Classifiacation (MURA v1.0)**
